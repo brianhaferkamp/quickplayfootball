@@ -6,7 +6,7 @@ This is fun tabletop football game that requires:
 
 2 d6 dice\
 [Team cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football.pdf)\
-Momentum cards\
+[Momentum cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football%20Game%20Momentum%20Cards.pdf)\
 Scoresheet\
 Game clock\
 [Game guide](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Tabletop%20Football%20Game%20Guide.pdf)
