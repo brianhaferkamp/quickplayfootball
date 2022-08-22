@@ -9,7 +9,7 @@ This is fun tabletop football game that requires:
 Momentum cards\
 Scoresheet\
 Game clock\
-Game guide
+[Game guide](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Tabletop%20Football%20Game%20Guide.pdf)
 
 ## The Basics
 
