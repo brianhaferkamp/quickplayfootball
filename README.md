@@ -13,7 +13,7 @@ Game clock\
 
 ## The Basics
 
-The game requires two main rolls for each play: Advantage roll and Yardage roll. 
+The game requires two main rolls for each play: the Advantage roll and the Yardage roll. 
 
 ### Advantage roll
 
