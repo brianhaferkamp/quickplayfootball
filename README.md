@@ -4,11 +4,11 @@ Welcome to the demo for a new tabletop football game codename: Quick Play Footba
 
 This is fun tabletop football game that requires:
 
-2 d6 dice
-Team cards
-Momentum cards
-Scoresheet
-Game clock
+2 d6 dice\
+[Team cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football.pdf)\
+Momentum cards\
+Scoresheet\
+Game clock\
 Game guide
 
 ## The Basics
