@@ -2,9 +2,11 @@
 
 Welcome to the demo for a new tabletop football game codename: Quick Play Football. The name will change but we needed something :-)
 
+_Note: I updated the game to use 2 d10 dice instead of 2 d6 dice. The changes are made on the cards, the big play and penalty cards, and in the game guide._
+
 This is fun tabletop football game that requires:
 
-2 d6 dice\
+2 d10 dice\
 [Team cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football.pdf)\
 [Momentum cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football%20Game%20Momentum%20Cards.pdf)\
 Scoresheet\
