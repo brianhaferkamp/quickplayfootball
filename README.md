@@ -13,6 +13,10 @@ Scoresheet\
 [Field and game clock](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Field_and_Clock.pdf)\
 [Game guide](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Tabletop%20Football%20Game.pdf)
 
+## Video Tutorial
+
+Learn the basics of game play using individual players and team cards: [https://youtu.be/QdHhHvlCKG0](https://youtu.be/QdHhHvlCKG0).
+
 ## The Basics
 
 The game requires two main rolls for each play: the Advantage roll and the Yardage roll. 
