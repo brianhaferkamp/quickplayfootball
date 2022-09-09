@@ -7,7 +7,7 @@ _Note: I updated the game to use 2 d10 dice instead of 2 d6 dice. The changes ar
 This is fun tabletop football game that requires:
 
 2 d10 dice\
-[Team cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick_Play_Football_d10.pdf)\
+[Team cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/quick_play_football_with_players.pdf)\
 [Momentum cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football%20Game%20Momentum%20Cards.pdf)\
 Scoresheet\
 [Field and game clock](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Field_and_Clock.pdf)\
