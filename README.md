@@ -8,6 +8,7 @@ This is fun tabletop football game that requires:
 
 2 d10 dice\
 [Team cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/quick_play_football_with_players.pdf)\
+[Big Play & Penalty Cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/quick_play_football_big-play-cards.pdf)\
 [Momentum cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football%20Game%20Momentum%20Cards.pdf)\
 Scoresheet\
 [Field and game clock](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Field_and_Clock.pdf)\
