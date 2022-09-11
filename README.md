@@ -11,7 +11,7 @@ This is fun tabletop football game that requires:
 [Big play & penalty cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/quick_play_football_big-play-cards.pdf)\
 [Momentum cards](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Football%20Game%20Momentum%20Cards.pdf)\
 Scoresheet\
-[Field and game clock](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Field_and_Clock.pdf)\
+[Field and game clock](https://github.com/brianhaferkamp/quickplayfootball/raw/main/quick_play_football_cheat-sheet.pdf)\
 [Game guide](https://github.com/brianhaferkamp/quickplayfootball/raw/main/Quick%20Play%20Tabletop%20Football%20Game.pdf)
 
 ## Video Tutorial
