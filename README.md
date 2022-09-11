@@ -36,6 +36,10 @@ Momentum swings happen after a team makes a big play. After a big play is made t
 
 For more detailed instructions, download the game guide above.
 
+### Individual player finder
+
+To find the individual player who caught the pass, ran the football, made the sack, etc, roll 2 d10 dice at the end of the play and reference the individual players on the team cards.
+
 ## Feedback
 
 This is a game in active development and this is the first public release of the game. Please play the game a bit and send your feedback to advancedstatsfootball@gmail.com. What works with the game and what could be improved? Be part of the active development of a game that will go into production and become a commercial tabletop football game!
